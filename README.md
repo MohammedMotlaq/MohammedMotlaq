@@ -1,9 +1,9 @@
 
 <h1 align="center"><b>Hi , I'm Mohammed Motlaq </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<picture> <img align="right" src="https://goofy-goldstine-0f8bb1.netlify.app/img/web.gif" width = 250px></picture>
+<!--<picture> <img align="right" src="https://goofy-goldstine-0f8bb1.netlify.app/img/web.gif" width = 250px></picture>-->
 
-<br><br>
+<br>
 
 - I am A Mobile Application Developer with Flutter...
 - Software Systems Engineering...
@@ -11,7 +11,7 @@
 - I’m currently open for an Intern or a new job opportunity, this is my [LinkedIn](www.linkedin.com/in/mohammed-motlaq-486372241
 )...
 
-<br><br>
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills & Languages</b>
 
